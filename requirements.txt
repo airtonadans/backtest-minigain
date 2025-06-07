@@ -5,6 +5,4 @@ numpy
 matplotlib
 supabase
 python-dotenv
-streamlit
-ta
 plotly
