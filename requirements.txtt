@@ -1,0 +1,10 @@
+﻿fastapi
+uvicorn
+pandas
+numpy
+matplotlib
+supabase
+python-dotenv
+streamlit
+ta
+plotly
